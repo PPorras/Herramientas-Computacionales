@@ -1,0 +1,32 @@
+# Ignorar carpeta de imágenes generales
+Images/
+
+# Ignorar imágenes internas de notebooks
+Notebooks de clases/Imagenes/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Archivos de prueba de primos
+Notebooks de clases/primes-*.txt
+
+# Archivos ocultos o temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos PDF (si no quieres subir las prácticas en PDF)
+# Practicas/*.pdf
+
+# Carpeta de soluciones (opcional, si quieres mantenerlas privadas)
+# Soluciones/
+
+# Archivos de backup de editores
+*~
+*.bak
+
